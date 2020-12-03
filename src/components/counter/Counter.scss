@@ -1,0 +1,10 @@
+.operation {
+  display: grid;
+  grid-template-columns: 2fr 1fr .5fr;
+  grid-column-gap: 1vw;
+}
+.calcContainer {
+  width: 90%;
+  margin: 0 auto;
+  padding: 1vw 0 1vw 0;
+}
